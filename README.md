@@ -5,9 +5,9 @@
 #### By Jose Rodriguez
 
 ## Application gives you different results based on the numbers you submit. 
-###Numbers divisible by 3 are replaced with "ping"
-###Numbers divisible by 5 are replaced with "pong"
-###Numbers divisible by 15 are replaced with "pingpong"
+Numbers divisible by 3 are replaced with "ping"
+Numbers divisible by 5 are replaced with "pong"
+Numbers divisible by 15 are replaced with "pingpong"
 
 
 ## Setup/Installation Requirements
