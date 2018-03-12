@@ -38,4 +38,4 @@ JQUERY
 
 UNDER MIT LICENSE
 
-Copyright (c) 2015 **_{List of contributors or company name}_**
+Copyright (c) 2018 JOSE RODRIGUEZ
